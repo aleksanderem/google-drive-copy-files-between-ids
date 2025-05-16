@@ -52,8 +52,8 @@ You can find the folder ID in its URL:
 ## 📝 Example
 
 ```python
-source_folder_id = '1gTqnEeQ21mLG1As5CDjLX0sNtgNIXtyy'
-target_folder_id = '1by-hP_GqRz-W4Z5sKGo02yyYFDBz0SYp'
+source_folder_id = '1gTqnEeQ21mLG1As5CDjLsdasX0sNtgNIXtyy'
+target_folder_id = '1by-hcxzczP_GqRz-W4Z5sKGo02yyYFDBz0SYp'
 
 copy_drive_folder_between_ids(source_folder_id, target_folder_id)
 ```
